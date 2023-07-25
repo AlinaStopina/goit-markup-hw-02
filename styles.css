@@ -1,9 +1,8 @@
-body {
-  font-family: "Roboto", sans-serif;
-  font-weight: 800;
-  color: #434455;
-  background-color: #ffffff;
+:root {
 }
 
-:root {
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
