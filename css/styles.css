@@ -1,14 +1,19 @@
+:root {
+  --pressed-state: #404bbf;
+  --dark: #2e2f42;
+  --succes: #31d0aa;
+  --text: #434455;
+  --sub-text: #8e8f99;
+  --accent: #e7e9fc;
+  --light: #f4f4fd;
+  --modal-overlay: #2e2f42;
+  --hero-background: #2e2f42;
+  --white-background: #ffffff;
+  --modal-background: #fcfcfc;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-}
-:root {
-  --primary-logo: "Poppins", sans-serif;
-  --title-font: "Oswald", sans-serif;
-  --primary-black-color: #212121;
-  --primary-white-color: #ffffff;
-  --primary-accent-color: #03a9f4;
-  --secondary-accent-color: #0288d1;
-  --active-link-color: #f44336;
 }
