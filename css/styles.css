@@ -1,13 +1,11 @@
 :root {
   --pressed-state: #404bbf;
-  --dark: #2e2f42;
+  --dark-grey: #2e2f42;
   --succes: #31d0aa;
   --text: #434455;
   --sub-text: #8e8f99;
   --accent: #e7e9fc;
   --light: #f4f4fd;
-  --modal-overlay: #2e2f42;
-  --hero-background: #2e2f42;
   --white-background: #ffffff;
   --modal-background: #fcfcfc;
 }
@@ -24,7 +22,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--dark-grey);
 }
 
 .section-two-paragraf {
@@ -40,7 +38,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--dark-grey);
   text-align: center;
   text-transform: capitalize;
 }
@@ -67,7 +65,7 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
