@@ -138,3 +138,17 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
+
+.footer {
+  background-color: var(--dark-grey);
+}
+
+.logo-activ-white {
+  color: #f4f4fd;
+}
+
+.footer-paragraf {
+  line-height: 1.5;
+  color: var(--light);
+  letter-spacing: 0.02em;
+}
