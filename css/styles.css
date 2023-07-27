@@ -8,6 +8,7 @@
   --light: #f4f4fd;
   --white-background: #ffffff;
   --modal-background: #fcfcfc;
+  --blue-logo: #4d5ae5;
 }
 
 body {
@@ -151,4 +152,34 @@ body {
   line-height: 1.5;
   color: var(--light);
   letter-spacing: 0.02em;
+}
+
+.logo-link-portfolio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--blue-logo);
+}
+
+.logo-activ-portfolio {
+  color: var(--dark-grey);
+}
+
+.nav-link-portfolio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--dark-grey);
+}
+
+.nav-link-portfolio:hover {
+  color: #404bbf;
+}
+
+.nav-link-portfolio:focus {
+  color: #404bbf;
 }
