@@ -4,4 +4,11 @@ body {
   background-color: #ffffff;
 }
 :root {
+  --primary-logo: "Poppins", sans-serif;
+  --title-font: "Oswald", sans-serif;
+  --primary-black-color: #212121;
+  --primary-white-color: #ffffff;
+  --primary-accent-color: #03a9f4;
+  --secondary-accent-color: #0288d1;
+  --active-link-color: #f44336;
 }
