@@ -206,3 +206,24 @@ body {
 .logo-activ-portfolio-white {
   color: #f4f4fd;
 }
+
+.button-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--blue-logo);
+  background-color: var(--light);
+  cursor: pointer;
+}
+
+.button-portfolio:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.button-portfolio:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
