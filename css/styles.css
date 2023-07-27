@@ -183,3 +183,18 @@ body {
 .nav-link-portfolio:focus {
   color: #404bbf;
 }
+
+.adress-portfolio {
+  font-style: normal;
+}
+
+.lontakt-link-portfolio {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--text);
+}
+
+..lontakt-link-portfolio:hover {
+  color: #404bbf;
+}
