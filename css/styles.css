@@ -188,7 +188,7 @@ body {
   font-style: normal;
 }
 
-.lontakt-link-portfolio {
+.kontakt-link-portfolio {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -197,4 +197,12 @@ body {
 
 ..lontakt-link-portfolio:hover {
   color: #404bbf;
+}
+
+.footer-portfolio {
+  background-color: var(--dark-grey);
+}
+
+.logo-activ-portfolio-white {
+  color: #f4f4fd;
 }
